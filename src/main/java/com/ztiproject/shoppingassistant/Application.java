@@ -89,6 +89,7 @@ class SecurityConfig {
                 .and()
                     .authorizeExchange()
                     .pathMatchers(HttpMethod.GET, "/posts/**").permitAll()
+                    .pathMatchers(HttpMethod.PUT, "/posts/**").permitAll()
                     .pathMatchers(HttpMethod.GET, "/auth/**").permitAll()
                     .pathMatchers(HttpMethod.POST, "/auth/**").permitAll()
                     .pathMatchers(HttpMethod.DELETE, "/posts/**").permitAll()
