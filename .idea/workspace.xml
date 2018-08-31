@@ -110,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ztiproject/shoppingassistant/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="91" column="50" lean-forward="true" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+            <state relative-caret-position="782">
+              <caret line="92" column="74" lean-forward="true" selection-start-line="92" selection-start-column="74" selection-end-line="92" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -271,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535752737030" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535752833581" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -319,12 +319,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535728475713</updated>
       <workItem from="1535734930633" duration="302000" />
-      <workItem from="1535742123582" duration="3041000" />
+      <workItem from="1535742123582" duration="3137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3343000" />
+    <option name="totallyTimeSpent" value="3439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -551,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ztiproject/shoppingassistant/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="91" column="50" lean-forward="true" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+        <state relative-caret-position="782">
+          <caret line="92" column="74" lean-forward="true" selection-start-line="92" selection-start-column="74" selection-end-line="92" selection-end-column="74" />
         </state>
       </provider>
     </entry>
